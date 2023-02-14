@@ -31,7 +31,7 @@
                             <form id="form-contact" method="post" action="/store">
                                 @csrf
                                 <div class="card-header">
-                                    <h4>Customer Form</h4>
+                                    <h4>Customer Contact Form</h4>
                                 </div>
                                 <div class="card-body">
                                     <div class="row">
